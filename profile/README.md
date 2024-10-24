@@ -34,4 +34,4 @@ If you're interested in getting involved, check out our [contribution guidelines
 ## :books: Learn More
 
 To learn more about Gardener, visit our official website at [https://gardener.cloud](https://gardener.cloud).
-You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via [Slack](https://kubernetes.slack.com/archives/CB57N0BFG).
+You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via Slack in [Gardener](https://gardener-cloud.slack.com/archives/C045DSWJZB9) and [Kubernetes](https://kubernetes.slack.com/archives/CB57N0BFG) workspaces.
