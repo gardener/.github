@@ -11,6 +11,8 @@ Gardener is a Kubernetes extension that implements automated system management.
 It provides a lean, extensible, and multi-cloud capable API server that integrates existing cloud providers and open-source cloud computing libraries.
 Gardener is designed to support scalability and resilience for large-scale systems, and it's capable of managing thousands of Kubernetes clusters across multiple cloud providers (AWS, GCP, Azure, OpenStack, AliCloud, and more).
 
+[Enter the free demo playground environment and explore Gardener yourself!](https://demo.gardener.cloud/)
+
 ## :handshake: Gardener and ApeiroRA
 
 Gardener is proud to be part of the [ApeiroRA project](https://apeirora.eu/), an EU initiative that aims to develop a reference blueprint for an open, flexible, powerful, secure, and compliant next-generation cloud-edge continuum.
@@ -34,4 +36,5 @@ If you're interested in getting involved, check out our [contribution guidelines
 ## :books: Learn More
 
 To learn more about Gardener, visit our official website at [https://gardener.cloud](https://gardener.cloud).
+We provide a [free demo playground](https://demo.gardener.cloud/) to provide you with a hands-on experience of Gardener.
 You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via Slack in [Gardener](https://gardener-cloud.slack.com/archives/C045DSWJZB9) and [Kubernetes](https://kubernetes.slack.com/archives/CB57N0BFG) workspaces.
