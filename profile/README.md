@@ -37,4 +37,4 @@ If you're interested in getting involved, check out our [contribution guidelines
 
 To learn more about Gardener, visit our official website at [https://gardener.cloud](https://gardener.cloud).
 We provide a [free demo playground](https://demo.gardener.cloud/) to provide you with a hands-on experience of Gardener.
-You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via Slack in [Gardener](https://gardener-cloud.slack.com/archives/C045DSWJZB9) and [Kubernetes](https://kubernetes.slack.com/archives/CB57N0BFG) workspaces.
+You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via [Slack](https://gardener-cloud.slack.com/) (join the workspace [here](https://gardener.cloud/community/community-bio/)).
