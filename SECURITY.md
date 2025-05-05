@@ -9,6 +9,7 @@ Security vulnerabilities should be handled quickly and sometimes privately. The 
 * Vasu Chandrasekhara, (**[@vasu1124](https://github.com/vasu1124)**)
 * Christian Cwienk, (**[@ccwienk](https://github.com/ccwienk)**)
 * Donka Dimitrova, (**[@donistz](https://github.com/donistz)**)
+* Eva Kuhnle-Heck (**[@HeckEK](https://github.com/HeckEK)**)
 * Vedran Lerenc, (**[@vlerenc](https://github.com/vlerenc)**)
 * Dirk Marwinski, (**[@marwinski](https://github.com/marwinski)**)
 * Jordan Jordanov, (**[@jordanjordanov](https://github.com/jordanjordanov)**)
