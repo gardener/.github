@@ -13,7 +13,6 @@ Security vulnerabilities should be handled quickly and sometimes privately. The 
 * Vedran Lerenc, (**[@vlerenc](https://github.com/vlerenc)**)
 * Dirk Marwinski, (**[@marwinski](https://github.com/marwinski)**)
 * Jordan Jordanov, (**[@jordanjordanov](https://github.com/jordanjordanov)**)
-* Frederik Thormaehlen, (**[@ThormaehlenFred](https://github.com/ThormaehlenFred)**)
 * Philipp Heil, (**[@zkdev](https://github.com/zkdev)**)
 
 ## Disclosures
