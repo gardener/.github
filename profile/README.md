@@ -13,11 +13,15 @@ Gardener is designed to support scalability and resilience for large-scale syste
 
 [Enter the free demo playground environment and explore Gardener yourself!](https://demo.gardener.cloud/)
 
+## :pushpin: Gardener and NeoNephos
+
+Gardener has been donated to the [NeoNephos Foundation](https://neonephos.org/), a Linux Foundation initiative dedicated to advancing open-source projects that align with the strategic objectives of Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS) under neutral governance. Learn more about NeoNephos and our role within it [here](https://neonephos.org/).
+
 ## :handshake: Gardener and ApeiroRA
 
-Gardener is proud to be part of the [ApeiroRA project](https://apeirora.eu/), an EU initiative that aims to develop a reference blueprint for an open, flexible, powerful, secure, and compliant next-generation cloud-edge continuum.
-This blueprint will be made available as an open-source construction kit, providing blueprints and reusable components for central building blocks.
-While the specific contribution of Gardener to the ApeiroRA project is not explicitly mentioned, it can be inferred that Gardener is actively involved in the development and implementation of the reference blueprint and the overall goal of strengthening digital sovereignty for Europe.
+[ApeiroRA](https://apeirora.eu/) is a reference blueprint for an open, flexible, secure, and compliant next-generation cloud-edge continuum - and therefore a key contribution to IPCEI-CIS. At a high level, the projects of ApeiroRA allow users to provider-agnostically fetch, request and consume services, and for service providers to describe, offer and provision their services.
+By being open source, ApeiroRA provides a cross-border spillover effect, solidifying the foundation and future of the project.
+Learn more about ApeiroRA by checking out the [official website](https://apeirora.eu/).
 
 ## :star2: Key Features
 
@@ -38,3 +42,5 @@ If you're interested in getting involved, check out our [contribution guidelines
 To learn more about Gardener, visit our official website at [https://gardener.cloud](https://gardener.cloud).
 We provide a [free demo playground](https://demo.gardener.cloud/) to provide you with a hands-on experience of Gardener.
 You can also find our documentation [here](https://gardener.cloud/docs/) and can reach out to us via [Slack](https://gardener-cloud.slack.com/) (join the workspace [here](https://gardener.cloud/community/community-bio/)).
+
+<p align="center"><img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/></p>
