@@ -23,11 +23,11 @@ Security vulnerabilities should be handled quickly and sometimes privately. The 
 
 ### Private Disclosure Process
 
-The Gardener community asks that all suspected vulnerabilities be privately and responsibly disclosed. If you've found a vulnerability or a potential vulnerability in Gardener, please let us know by writing an e-mail to [secure@sap.com](mailto:secure@sap.com). We'll send a confirmation e-mail to acknowledge your report, and we'll send an additional e-mail when we've identified the issue positively or negatively.
+The Gardener community asks that all suspected vulnerabilities be privately and responsibly disclosed. If you've found a vulnerability or a potential vulnerability in Gardener, please let us know by writing an e-mail to [gardener-security@lists.neonephos.org](mailto:gardener-security@lists.neonephos.org). We'll send a confirmation e-mail to acknowledge your report, and we'll send an additional e-mail when we've identified the issue positively or negatively.
 
 ### Public Disclosure Process
 
-If you know of a publicly disclosed vulnerability please IMMEDIATELY write an e-mail to [secure@sap.com](mailto:secure@sap.com) to inform the Gardener Security Team about the vulnerability so they may start the patch, release, and communication process.
+If you know of a publicly disclosed vulnerability please IMMEDIATELY write an e-mail to [gardener-security@lists.neonephos.org](mailto:gardener-security@lists.neonephos.org) to inform the Gardener Security Team about the vulnerability so they may start the patch, release, and communication process.
 
 If possible, the Gardener Security Team will ask the person making the public report if the issue can be handled via a [private disclosure process](#private-disclosure-process) (for example, if the full exploit details have not yet been published). If the reporter denies the request for private disclosure, the Gardener Security Team will move swiftly with the fix and release process. In extreme cases GitHub can be asked to delete the issue but this generally isn't necessary and is unlikely to make a public disclosure less damaging.
 
