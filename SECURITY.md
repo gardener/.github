@@ -2,6 +2,10 @@
 
 Gardener is a growing community of volunteers and users. The Gardener community has adopted this security disclosure and response policy to ensure we responsibly handle critical issues.
 
+## Gardener Security Officer
+
+* Eva Kuhnle-Heck (**[@HeckEK](https://github.com/HeckEK)**)
+  
 ## Gardener Security Team
 
 Security vulnerabilities should be handled quickly and sometimes privately. The primary goal of this process is to reduce the total time users are vulnerable to publicly known exploits. The Gardener Security Team is responsible for organizing the entire response, including internal communication and external disclosure, but will need help from relevant developers and release managers to successfully run this process. The Gardener Security Team consists of the following volunteers:
