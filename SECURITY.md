@@ -10,14 +10,14 @@ Gardener is a growing community of volunteers and users. The Gardener community 
 
 Security vulnerabilities should be handled quickly and sometimes privately. The primary goal of this process is to reduce the total time users are vulnerable to publicly known exploits. The Gardener Security Team is responsible for organizing the entire response, including internal communication and external disclosure, but will need help from relevant developers and release managers to successfully run this process. The Gardener Security Team consists of the following volunteers:
 
-* Vasu Chandrasekhara, (**[@vasu1124](https://github.com/vasu1124)**)
+* Eva Kuhnle-Heck (**[@HeckEK](https://github.com/HeckEK)**)
 * Christian Cwienk, (**[@ccwienk](https://github.com/ccwienk)**)
 * Donka Dimitrova, (**[@donistz](https://github.com/donistz)**)
-* Eva Kuhnle-Heck (**[@HeckEK](https://github.com/HeckEK)**)
 * Vedran Lerenc, (**[@vlerenc](https://github.com/vlerenc)**)
 * Dirk Marwinski, (**[@marwinski](https://github.com/marwinski)**)
 * Jordan Jordanov, (**[@jordanjordanov](https://github.com/jordanjordanov)**)
-* Philipp Heil, (**[@zkdev](https://github.com/zkdev)**)
+* Vladimir Nachev, (**[@vpnachev](https://github.com/vpnachev)**)
+* Dimitar Mirchev, (**[@dimityrmirchev](https://github.com/dimityrmirchev)**)
 
 ## Disclosures
 
