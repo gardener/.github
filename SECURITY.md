@@ -81,4 +81,7 @@ The members of the [Gardener Security Team](#gardener-security-team) are subscri
 
 ### Open-Source-Steward
 
-CRA stewardship: This project is supported under the Linux Foundation CRA stewardship framework. Our project CRA steward is the Linux Foundation Europe and its policy is available at https://www.linuxfoundation.org/security. Security vulnerabilities should be reported through [Gardener's security reporting](https://gardener.cloud/docs/security-and-compliance/security-incident/) which we will coordinate with our CRA steward. For actively exploited vulnerabilities or other security matters that may require CRA escalation, please use Gardener's security [emergency reporting channels](https://gardener.cloud/docs/security-and-compliance/security-incident/) as appropriate.
+CRA stewardship: This project is supported under the Linux Foundation CRA stewardship framework, as described at https://www.linuxfoundation.org/security.
+Security vulnerabilities should be reported through [Gardener's security reporting](https://gardener.cloud/docs/security-and-compliance/security-incident/), which we will coordinate with our CRA steward. For actively exploited vulnerabilities and severe incidents that may require CRA escalation, please use the project’s emergency security reporting mechanisms as appropriate.
+
+
